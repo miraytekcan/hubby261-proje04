@@ -1,0 +1,5 @@
+Öğrenci: Mira, Ders: Psikoloji, Arasınav: 45, Final: 22, Ödev: 67, Ortalama: 40.2
+Öğrenci: Yaman, Ders: Ekonomi, Arasınav: 65, Final: 33, Ödev: 60, Ortalama: 51.2
+Öğrenci: Eylül, Ders: Biyoloji, Arasınav: 56, Final: 76, Ödev: 78, Ortalama: 73.2
+Öğrenci: Mert, Ders: Computer Science, Arasınav: 100, Final: 100, Ödev: 60, Ortalama: 76.0
+Öğrenci: Miray, Ders: Tarih, Arasınav: 100, Final: 100, Ödev: 100, Ortalama: 100.0
