@@ -1,6 +1,4 @@
-#hubby261-proje04 
-
-Bilgilendirme
+# hubby261-proje04 
 
 kullandığım paketlerin ekran görüntüsünü hubby261-proje04 içine ekledim
 
