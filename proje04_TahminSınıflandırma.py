@@ -21,7 +21,7 @@ model = LogisticRegression()
 model.fit(X, y)
 
 window = tk.Tk()
-window.title("Miray Paragraf Tahmini Sınıflandırma")
+window.title("Miray Metin Kategorizasyonu")
 label = tk.Label(window, text="Lütfen istediğiniz cümleyi yeşil bölgeye giriniz.")
 label.pack()
 
