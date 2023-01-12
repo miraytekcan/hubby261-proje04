@@ -1,6 +1,8 @@
 # hubby261-proje04 
 
-kullandığım paketlerin ekran görüntüsünü hubby261-proje04 içine ekledim
+kullandığım paketlerin ekran görüntüsünü hubby261-proje04 içine ekledim 
+sklearn ve sklearn-model paketlerini kullandım
+(tkinter, tkinter.messagebox, sklearn.feature_extraction.text, sklearn.linear_model CountVectorizer ve LogisticRegression import ettim)
 
 2 tane proje yaptım;
 
